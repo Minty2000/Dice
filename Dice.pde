@@ -17,8 +17,7 @@ void setup()
          }
       }
       text("Total: " + sum, 200,450);
-      
-      System.out.print(sum);
+    
   }
   void mousePressed()
   {
