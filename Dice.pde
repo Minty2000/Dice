@@ -24,9 +24,10 @@ void setup()
       background(0);
       
       redraw();
-      sum = 0;
+     
       
       text("Total: " + sum, 200,450);
+       sum = 0;
   }
   class Die //models one single dice cube
   {
