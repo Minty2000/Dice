@@ -22,7 +22,7 @@ void setup()
   void mousePressed()
   {
       background(0);
-      rect(0,0,500,500,5);
+      rect(0,0,500,500,20);
       redraw();
       sum = 0;
       
