@@ -17,7 +17,6 @@ void setup()
          }
       }
       text("Total: " + sum, 200,450);
-    
   }
   void mousePressed()
   {
